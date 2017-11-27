@@ -457,6 +457,7 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4254.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4950.ts
 #EXTINF:-1,tvg-id="Showtime.us",tvg-name="UK: Showtime HD PPV",tvg-logo="https://vgy.me/PjXRV5.png",group-title="UK Sports",US: Showtime HD PPV
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3883.ts
+
 #EXTINF:-1 tvg-id="AFNSports.us" tvg-name="US: AFN Sports HD" tvg-logo="https://vgy.me/VB2zGA.png" group-title="US & Canada Sports", US: AFN Sports HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2826.ts
 #EXTINF:-1 tvg-id="AFNSports2.us" tvg-name="US: AFN Sports 2 HD" tvg-logo="https://vgy.me/VB2zGA.png" group-title="US & Canada Sports", US: AFN Sports 2 HD
@@ -497,8 +498,6 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3304.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2847.ts
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US: NBC Golf HD" tvg-logo="https://vgy.me/obcViZ.png" group-title="US & Canada Sports", US: NBC Golf HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3875.ts
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="US: NBC HD" tvg-logo="https://vgy.me/gYjbY6.png" group-title="US & Canada Sports", US: NBC HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3908.ts
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="US: NBC Sports Network HD" tvg-logo="https://vgy.me/hU1LmO.png" group-title="US & Canada Sports", US: NBC Sports Network
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4236.ts
 #EXTINF:-1 tvg-id="NewEnglandSportsNetwork.us" tvg-name="US: Nesn HD" tvg-logo="https://vgy.me/g6hiIZ.png" group-title="US & Canada Sports", US: Nesn HD
@@ -785,7 +784,7 @@ http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4355.mkv
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4356.mkv
 #EXTINF:-1 tvg-id=“” tvg-name="Big Little Lies - S01E05 - Once Bitten" tvg-logo="http://watch.eclipseiptv.com:80/images/4959742.jpg" group-title="Big Little Lies", Big Little Lies - S01E05 - Once Bitten
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4357.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Big Little Lies - S01E06 - Burning Love" tvg-logo="http://watch.eclipseiptv.com:80/images/5251466.jpg" group-title="Big Little Lies", Big Little Lies - S01E06 - Burning Love
+#EXTINF:-1 tvg-id=“” tvg-name="Big Little Lies - S01E06 - Burning Love" tvg-logo="http://watch.eclipseiptv.com:80/images/5251466.jpg" group-title="Big Little Lies", Big Little Lies K S01E06 - Burning Love
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4358.mkv
 #EXTINF:-1 tvg-id=“” tvg-name="Big Little Lies - S01E07 - You Get What You Need" tvg-logo="http://watch.eclipseiptv.com:80/images/5251470.jpg" group-title="Big Little Lies", Big Little Lies - S01E07 - You Get What You Need
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4359.mkv
@@ -923,83 +922,83 @@ http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4347.mkv
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4352.mkv
 #EXTINF:-1 tvg-id=“” tvg-name="Game of Thrones - S07E07 - The Dragon and the Wolf" tvg-logo="http://watch.eclipseiptv.com:80/images/5775874.jpg" group-title="Game of Thrones", Game of Thrones - S07E07 - The Dragon and the Wolf
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4345.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E01 - I/O" tvg-logo="http://watch.eclipseiptv.com:80/images/3168442.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E01 - I/O
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E01 - I/O" tvg-logo="http://watch.eclipseiptv.com:80/images/3168442.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E01 - I/O
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4360.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E02 - FUD" tvg-logo="http://watch.eclipseiptv.com:80/images/3370408.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E02 - FUD
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E02 - FUD" tvg-logo="http://watch.eclipseiptv.com:80/images/3370408.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E02 - FUD
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4361.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E03 - High Plains Hardware" tvg-logo="http://watch.eclipseiptv.com:80/images/3438496.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E03 - High Plains Hardware
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E03 - High Plains Hardware" tvg-logo="http://watch.eclipseiptv.com:80/images/3438496.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E03 - High Plains Hardware
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4362.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E04 - Close to the Metal" tvg-logo="http://watch.eclipseiptv.com:80/images/3464414.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E04 - Close to the Metal
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E04 - Close to the Metal" tvg-logo="http://watch.eclipseiptv.com:80/images/3464414.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E04 - Close to the Metal
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4363.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E05 - Adventure" tvg-logo="http://watch.eclipseiptv.com:80/images/3499556.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E05 - Adventure
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E05 - Adventure" tvg-logo="http://watch.eclipseiptv.com:80/images/3499556.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E05 - Adventure
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4364.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E06 - Landfall" tvg-logo="http://watch.eclipseiptv.com:80/images/3517700.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E06 - Landfall
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E06 - Landfall" tvg-logo="http://watch.eclipseiptv.com:80/images/3517700.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E06 - Landfall
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4365.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E07 - Giant" tvg-logo="http://watch.eclipseiptv.com:80/images/3549020.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E07 - Giant
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E07 - Giant" tvg-logo="http://watch.eclipseiptv.com:80/images/3549020.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E07 - Giant
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4366.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E08 - The 214s" tvg-logo="http://watch.eclipseiptv.com:80/images/3566354.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E08 - The 214s
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E08 - The 214s" tvg-logo="http://watch.eclipseiptv.com:80/images/3566354.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E08 - The 214s
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4367.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E09 - Up Helly Aa" tvg-logo="http://watch.eclipseiptv.com:80/images/3566360.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E09 - Up Helly Aa
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E09 - Up Helly Aa" tvg-logo="http://watch.eclipseiptv.com:80/images/3566360.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E09 - Up Helly Aa
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4368.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E10 - 1984" tvg-logo="http://watch.eclipseiptv.com:80/images/3566368.jpg" group-title="Halt And Catch", Halt and Catch Fire - S01E10 - 1984
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S01E10 - 1984" tvg-logo="http://watch.eclipseiptv.com:80/images/3566368.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S01E10 - 1984
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4369.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E01 - SETI" tvg-logo="http://watch.eclipseiptv.com:80/images/3972584.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E01 - SETI
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E01 - SETI" tvg-logo="http://watch.eclipseiptv.com:80/images/3972584.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E01 - SETI
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4370.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E02 - New Coke" tvg-logo="http://watch.eclipseiptv.com:80/images/4364332.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E02 - New Coke
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E02 - New Coke" tvg-logo="http://watch.eclipseiptv.com:80/images/4364332.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E02 - New Coke
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4371.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E03 - The Way In" tvg-logo="http://watch.eclipseiptv.com:80/images/4364336.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E03 - The Way In
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E03 - The Way In" tvg-logo="http://watch.eclipseiptv.com:80/images/4364336.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E03 - The Way In
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4372.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E04 - Play with Friends" tvg-logo="http://watch.eclipseiptv.com:80/images/4422412.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E04 - Play with Friends
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E04 - Play with Friends" tvg-logo="http://watch.eclipseiptv.com:80/images/4422412.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E04 - Play with Friends
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4373.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E05 - Extract and Defend" tvg-logo="http://watch.eclipseiptv.com:80/images/4437720.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E05 - Extract and Defend
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E05 - Extract and Defend" tvg-logo="http://watch.eclipseiptv.com:80/images/4437720.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E05 - Extract and Defend
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4374.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E06 - 10Broad36" tvg-logo="http://watch.eclipseiptv.com:80/images/4508160.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E06 - 10Broad36
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E06 - 10Broad36" tvg-logo="http://watch.eclipseiptv.com:80/images/4508160.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E06 - 10Broad36
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4375.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E07 - Working for the Clampdown" tvg-logo="http://watch.eclipseiptv.com:80/images/4537868.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E07 - Working for the Clampdown
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E07 - Working for the Clampdown" tvg-logo="http://watch.eclipseiptv.com:80/images/4537868.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E07 - Working for the Clampdown
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4376.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E08 - Limbo" tvg-logo="http://watch.eclipseiptv.com:80/images/4568616.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E08 - Limbo
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E08 - Limbo" tvg-logo="http://watch.eclipseiptv.com:80/images/4568616.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E08 - Limbo
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4377.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E09 - Kali" tvg-logo="http://watch.eclipseiptv.com:80/images/4569076.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E09 - Kali
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E09 - Kali" tvg-logo="http://watch.eclipseiptv.com:80/images/4569076.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E09 - Kali
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4378.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E10 - Heaven is a Place" tvg-logo="http://watch.eclipseiptv.com:80/images/4436098.jpg" group-title="Halt And Catch", Halt and Catch Fire - S02E10 - Heaven is a Place
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S02E10 - Heaven is a Place" tvg-logo="http://watch.eclipseiptv.com:80/images/4436098.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S02E10 - Heaven is a Place
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4379.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E01 - Valley of the Heart's Delight" tvg-logo="http://watch.eclipseiptv.com:80/images/5098994.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E01 - Valley of the Heart's Delight
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E01 - Valley of the Heart's Delight" tvg-logo="http://watch.eclipseiptv.com:80/images/5098994.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E01 - Valley of the Heart's Delight
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4380.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E02 - One Way or Another" tvg-logo="http://watch.eclipseiptv.com:80/images/5539282.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E02 - One Way or Another
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E02 - One Way or Another" tvg-logo="http://watch.eclipseiptv.com:80/images/5539282.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E02 - One Way or Another
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4381.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E03 - Flipping the Switch" tvg-logo="http://watch.eclipseiptv.com:80/images/5539292.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E03 - Flipping the Switch
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E03 - Flipping the Switch" tvg-logo="http://watch.eclipseiptv.com:80/images/5539292.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E03 - Flipping the Switch
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4382.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E04 - Rules of Honorable Play" tvg-logo="http://watch.eclipseiptv.com:80/images/5539294.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E04 - Rules of Honorable Play
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E04 - Rules of Honorable Play" tvg-logo="http://watch.eclipseiptv.com:80/images/5539294.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E04 - Rules of Honorable Play
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4383.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E05 - Yerba Buena" tvg-logo="http://watch.eclipseiptv.com:80/images/5640498.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E05 - Yerba Buena
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E05 - Yerba Buena" tvg-logo="http://watch.eclipseiptv.com:80/images/5640498.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E05 - Yerba Buena
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4384.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E06 - And She Was" tvg-logo="http://watch.eclipseiptv.com:80/images/5640508.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E06 - And She Was
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E06 - And She Was" tvg-logo="http://watch.eclipseiptv.com:80/images/5640508.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E06 - And She Was
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4385.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E07 - The Threshold" tvg-logo="http://watch.eclipseiptv.com:80/images/5640738.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E07 - The Threshold
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E07 - The Threshold" tvg-logo="http://watch.eclipseiptv.com:80/images/5640738.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E07 - The Threshold
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4386.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E08 - You Are Not Safe" tvg-logo="http://watch.eclipseiptv.com:80/images/5707496.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E08 - You Are Not Safe
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E08 - You Are Not Safe" tvg-logo="http://watch.eclipseiptv.com:80/images/5707496.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E08 - You Are Not Safe
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4387.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E09 - NIM" tvg-logo="http://watch.eclipseiptv.com:80/images/5707510.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E09 - NIM
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E09 - NIM" tvg-logo="http://watch.eclipseiptv.com:80/images/5707510.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E09 - NIM
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4388.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E10 - NeXT" tvg-logo="http://watch.eclipseiptv.com:80/images/5707526.jpg" group-title="Halt And Catch", Halt and Catch Fire - S03E10 - NeXT
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S03E10 - NeXT" tvg-logo="http://watch.eclipseiptv.com:80/images/5707526.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S03E10 - NeXT
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4389.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E01 - So It Goes" tvg-logo="http://watch.eclipseiptv.com:80/images/6141394.jpg" group-title="Halt And Catch", Halt and Catch Fire - S04E01 - So It Goes
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E01 - So It Goes" tvg-logo="http://watch.eclipseiptv.com:80/images/6141394.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S04E01 - So It Goes
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4390.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E02 - Signal to Noise" tvg-logo="http://watch.eclipseiptv.com:80/images/6143702.jpg" group-title="Halt And Catch", Halt and Catch Fire - S04E02 - Signal to Noise
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E02 - Signal to Noise" tvg-logo="http://watch.eclipseiptv.com:80/images/6143702.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S04E02 - Signal to Noise
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4391.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E03 - Miscellaneous" tvg-logo="http://watch.eclipseiptv.com:80/images/6143704.jpg" group-title="Halt And Catch", Halt and Catch Fire - S04E03 - Miscellaneous
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E03 - Miscellaneous" tvg-logo="http://watch.eclipseiptv.com:80/images/6143704.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S04E03 - Miscellaneous
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4392.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E04 - Tonya and Nancy" tvg-logo="http://watch.eclipseiptv.com:80/images/6143708.jpg" group-title="Halt And Catch", Halt and Catch Fire - S04E04 - Tonya and Nancy
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E04 - Tonya and Nancy" tvg-logo="http://watch.eclipseiptv.com:80/images/6143708.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S04E04 - Tonya and Nancy
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4393.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E05 - Nowhere Man" tvg-logo="http://watch.eclipseiptv.com:80/images/6143716.jpg" group-title="Halt And Catch", Halt and Catch Fire - S04E05 - Nowhere Man
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E05 - Nowhere Man" tvg-logo="http://watch.eclipseiptv.com:80/images/6143716.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S04E05 - Nowhere Man
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4921.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E06 - A Connection Is Made" tvg-logo="http://watch.eclipseiptv.com:80/images/6145872.jpg" group-title="Halt And Catch", Halt and Catch Fire - S04E06 - A Connection Is Made
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E06 - A Connection Is Made" tvg-logo="http://watch.eclipseiptv.com:80/images/6145872.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S04E06 - A Connection Is Made
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4922.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E07 - Who Needs a Guy" tvg-logo="https://vgy.me/ROklGV.jpg" group-title="Halt And Catch", Halt and Catch Fire - S04E07 - Who Needs a Guy
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E07 - Who Needs a Guy" tvg-logo="https://vgy.me/ROklGV.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S04E07 - Who Needs a Guy
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4942.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E08 - Goodwill" tvg-logo="http://watch.eclipseiptv.com:80/images/6145886.jpg" group-title="Halt And Catch", Halt and Catch Fire - S04E08 - Goodwill
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E08 - Goodwill" tvg-logo="http://watch.eclipseiptv.com:80/images/6145886.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S04E08 - Goodwill
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4951.mkv
-#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E09-E10 - Search And Ten of Swords" tvg-logo="http://watch.eclipseiptv.com:80/images/6141504.jpg" group-title="Halt And Catch", Halt and Catch Fire - S04E09-E10 - Search And Ten of Swords
+#EXTINF:-1 tvg-id=“” tvg-name="Halt and Catch Fire - S04E09-E10 - Search And Ten of Swords" tvg-logo="http://watch.eclipseiptv.com:80/images/6141504.jpg" group-title="Halt And Catch Fire", Halt and Catch Fire - S04E09-E10 - Search And Ten of Swords
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4952.mkv
 #EXTINF:-1 tvg-id=“” tvg-name="House of Cards (US) - S01E01 - Chapter 1" tvg-logo="http://watch.eclipseiptv.com:80/images/2161930.jpg" group-title="House of Cards", House of Cards (US) - S01E01 - Chapter 1
 http://watch.necroiptv.com/movie/ZmzTIcbsrp/ta6TYKxvGa/4394.mkv
@@ -2077,3 +2076,4 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4214.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4078.ts
 #EXTINF:-1 tvg-id=“” tvg-name="XXX: Hustler TV HD" tvg-logo="https://vgy.me/HOKO3b.png" group-title="For Adults", XXX: Hustler TV HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4077.ts
+
