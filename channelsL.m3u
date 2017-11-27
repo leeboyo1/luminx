@@ -45,6 +45,12 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4051.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4148.ts
 #EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK: Fox HD" tvg-logo="https://vgy.me/jfoThL.png" group-title="UK TV", UK: Fox HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2439.ts
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="UK: CBS Action" tvg-logo="https://vgy.me/ONfBGx.png" group-title="UK TV", UK: CBS Action
+http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2991.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK: CBS Reality" tvg-logo="https://vgy.me/LF6vMV.png" group-title="UK TV", UK: CBS Reality
+http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2990.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="UK: CBS Drama" tvg-logo="https://vgy.me/SJr4zS.png" group-title="UK TV", UK: CBS Drama
+http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3548.ts
 #EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK: Dave HD" tvg-logo="https://vgy.me/RuMOqU.png" group-title="UK TV", UK: Dave HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4047.ts
 #EXTINF:-1 tvg-id="Syfy.uk" tvg-name="UK: Syfy HD" tvg-logo="https://vgy.me/DFDgeZ.png" group-title="UK TV", UK: Syfy HD
@@ -61,11 +67,9 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3537.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4144.ts
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK: TLC" tvg-logo="https://vgy.me/tnqWM4.png" group-title="UK TV", UK: TLC
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2980.ts
-#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="UK: CBS Drama" tvg-logo="https://vgy.me/SJr4zS.png" group-title="UK TV", UK: CBS Drama
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3548.ts
 #EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="UK: Lifetime HD" tvg-logo="https://vgy.me/Hg3G74.png" group-title="UK TV", UK: Lifetime HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3542.ts
-#EXTINF:-1 tvg-id="TRUE Entertainment.uk" tvg-name="UK: 1 Entertainment" tvg-logo="https://vgy.me/9HG5dn.png" group-title="UK TV", UK: 1 Entertainment
+#EXTINF:-1 tvg-id="TRUE Entertainment.uk" tvg-name="UK: 1 Entertainment" tvg-logo="https://vgy.me/9HG5dn.png" group-title="UK TV", UK: TRUE Entertainment
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2988.ts
 #EXTINF:-1 tvg-id="W.uk" tvg-name="UK: W HD" tvg-logo="https://vgy.me/00uMl2.png" group-title="UK TV", UK: W HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2435.ts
@@ -107,11 +111,9 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2415.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4146.ts
 #EXTINF:-1 tvg-id="HomeandHealth.uk" tvg-name="UK: Home & Health" tvg-logo="https://vgy.me/gltUKy.png" group-title="UK TV", UK: Home & Health
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3290.ts
-#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="UK: Motors TV HD" tvg-logo="https://vgy.me/OXat9b.png" group-title="UK TV", UK: Motors TV HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4141.ts
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK: Discovery Turbo" tvg-logo="https://vgy.me/CsZ76M.png" group-title="UK TV", UK: Discovery Turbo
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3525.ts
-#EXTINF:-1 tvg-id="TRUE Crime.uk" tvg-name="UK: 1 Crime" tvg-logo="https://vgy.me/K33vd0.png" group-title="UK TV", UK: 1 Crime
+#EXTINF:-1 tvg-id="TRUE Crime.uk" tvg-name="UK: 1 Crime" tvg-logo="https://vgy.me/K33vd0.png" group-title="UK TV", UK: TRUE Crime
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4134.ts
 #EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="UK: Crime & Investigation HD" tvg-logo="https://vgy.me/Ao7SdE.png" group-title="UK TV", UK: Crime & Investigation HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2976.ts
@@ -139,6 +141,8 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2425.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2404.ts
 #EXTINF:-1 tvg-id="SkyAtlanticplus1.uk" tvg-name="UK: Sky Atlantic +1" tvg-logo="https://vgy.me/3b7Zxy.png" group-title="UK TV +1", UK: Sky Atlantic +1 HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2424.ts
+#EXTINF:-1 tvg-id="CBSReality1.uk" tvg-name="UK: CBS Reality 1" tvg-logo="https://vgy.me/LF6vMV.png" group-title="UK TV +1", UK: CBS Reality +1
+http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2989.ts
 #EXTINF:-1 tvg-id="ComedyCentralplus1.uk" tvg-name="UK: Comedy Central +1" tvg-logo="https://vgy.me/L1TuXE.png" group-title="UK TV +1", UK: Comedy Central +1
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2422.ts
 #EXTINF:-1 tvg-id="SyfyPlus1.uk" tvg-name="UK: Syfy +1" tvg-logo="https://vgy.me/58oZvO.png" group-title="UK TV +1", UK: Syfy +1
@@ -193,71 +197,17 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2440.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2436.ts
 #EXTINF:-1 tvg-id="Movies24.uk" tvg-name="UK: Movies 24" tvg-logo="https://vgy.me/mJcT5Z.png" group-title="UK Movies", UK: Movies 24
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3508.ts
-#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="UK: 1 Movies" tvg-logo="https://vgy.me/7Ipov9.png" group-title="UK Movies", UK: True Movies
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2993.ts
 #EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="UK: Horror Channel" tvg-logo="https://vgy.me/DSokhh.png" group-title="UK Movies", UK: Horror Channel
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3518.ts
 #EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="UK: Sony Movie Channel" tvg-logo="https://vgy.me/O9435X.png" group-title="UK Movies", UK: Sony Movie Channel
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2984.ts
-#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="UK: CBS Action" tvg-logo="https://vgy.me/ONfBGx.png" group-title="UK Movies", UK: CBS Action
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2991.ts
-#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK: CBS Reality" tvg-logo="https://vgy.me/LF6vMV.png" group-title="UK Movies", UK: CBS Reality
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2990.ts
-#EXTINF:-1 tvg-id="CBSReality1.uk" tvg-name="UK: CBS Reality 1" tvg-logo="https://vgy.me/LF6vMV.png" group-title="UK Movies", UK: CBS Reality 1
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2989.ts
 #EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="UK: Sony Movie Channel +1" tvg-logo="https://vgy.me/O9435X.png" group-title="UK Movies", UK: Sony Movie Channel +1
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2419.ts
-#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="UK: 1 Movies +1" tvg-logo="https://vgy.me/3jjhYT.png" group-title="UK Movies", UK: True Movies +1
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2992.ts
-#EXTINF:-1 tvg-id="TrueMovies2.uk" tvg-name="UK: 1 Movies +2" tvg-logo="https://vgy.me/J6TbFl.png" group-title="UK Movies", UK: True Movies +2
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3509.ts
-#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="UK: Sky Premier HD" tvg-logo="https://vgy.me/o5zbi1.png" group-title="UK Movies", UK: Sky Premier HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4230.ts
-#EXTINF:-1 tvg-id="SkyHits.uk" tvg-name="UK: Sky Hits HD" tvg-logo="https://vgy.me/DDK0hK.png" group-title="UK Movies", UK: Sky Hits HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4225.ts
-#EXTINF:-1 tvg-id="SkyGreats.uk" tvg-name="UK: Sky Greats HD" tvg-logo="https://vgy.me/BTNQNp.png" group-title="UK Movies", UK: Sky Greats HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4215.ts
-#EXTINF:-1 tvg-id="SkyMoviesDisney.uk" tvg-name="UK: Sky Disney HD" tvg-logo="https://vgy.me/BwAXrv.png" group-title="UK Movies", UK: Sky Disney HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2998.ts
-#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK: Sky Action & Adventure" tvg-logo="https://vgy.me/cOHtla.png" group-title="UK Movies", UK: Sky Action & Adventure HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4226.ts
-#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK: Sky Comedy HD" tvg-logo="https://vgy.me/N8zXgS.png" group-title="UK Movies", UK: Sky Comedy HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4227.ts
-#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="UK: Sky Crime & Thriller" tvg-logo="https://vgy.me/fljw8g.png" group-title="UK Movies", UK: Sky Crime & Thriller HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4136.ts
-#EXTINF:-1 tvg-id="SkyMoviesDrama.uk" tvg-name="UK: Sky Drama & Romance" tvg-logo="https://vgy.me/rHn0TK.png" group-title="UK Movies", UK: Sky Drama & Romance / Christmas HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3010.ts
-#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="UK: Sky Family HD" tvg-logo="https://vgy.me/cT6s5W.png" group-title="UK Movies", UK: Sky Family HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4228.ts
-#EXTINF:-1 tvg-id="Sky Oscar HD" tvg-name="UK:" tvg-logo="https://vgy.me/f0m9Zp.png" group-title="UK Movies", UK: Sky Oscar HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3001.ts
-#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK: Sky Sci-Fi & Horror" tvg-logo="https://vgy.me/3iFwvX.png" group-title="UK Movies", UK: Sky Sci Fi & Horror HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4231.ts
-#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="UK: Sky Select HD" tvg-logo="https://vgy.me/WhjSIN.png" group-title="UK Movies", UK: Sky Select HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4232.ts
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK: Film 4 HD" tvg-logo="https://vgy.me/GH18X8.png" group-title="UK Movies", UK: Film 4 HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2440.ts
-#EXTINF:-1 tvg-id="TCM.uk" tvg-name="UK: TCM HD" tvg-logo="https://vgy.me/FpXRgd.png" group-title="UK Movies", UK: TCM HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2436.ts
-#EXTINF:-1 tvg-id="Movies24.uk" tvg-name="UK: Movies 24" tvg-logo="https://vgy.me/mJcT5Z.png" group-title="UK Movies", UK: Movies 24
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3508.ts
-#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="UK: 1 Movies" tvg-logo="https://vgy.me/7Ipov9.png" group-title="UK Movies", UK: True Movies
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="UK: 1 Movies" tvg-logo="https://vgy.me/7Ipov9.png" group-title="UK Movies", UK: TRUE Movies
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2993.ts
-#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="UK: Horror Channel" tvg-logo="https://vgy.me/DSokhh.png" group-title="UK Movies", UK: Horror Channel
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3518.ts
-#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="UK: Sony Movie Channel" tvg-logo="https://vgy.me/O9435X.png" group-title="UK Movies", UK: Sony Movie Channel
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2984.ts
-#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="UK: CBS Action" tvg-logo="https://vgy.me/ONfBGx.png" group-title="UK Movies", UK: CBS Action
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2991.ts
-#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK: CBS Reality" tvg-logo="https://vgy.me/LF6vMV.png" group-title="UK Movies", UK: CBS Reality
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2990.ts
-#EXTINF:-1 tvg-id="CBSReality1.uk" tvg-name="UK: CBS Reality 1" tvg-logo="https://vgy.me/LF6vMV.png" group-title="UK Movies", UK: CBS Reality 1
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2989.ts
-#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="UK: Sony Movie Channel +1" tvg-logo="https://vgy.me/O9435X.png" group-title="UK Movies", UK: Sony Movie Channel +1
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2419.ts
-#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="UK: 1 Movies +1" tvg-logo="https://vgy.me/3jjhYT.png" group-title="UK Movies", UK: True Movies +1
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="UK: 1 Movies +1" tvg-logo="https://vgy.me/3jjhYT.png" group-title="UK Movies", UK: TRUE Movies +1
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2992.ts
-#EXTINF:-1 tvg-id="TrueMovies2.uk" tvg-name="UK: 1 Movies +2" tvg-logo="https://vgy.me/J6TbFl.png" group-title="UK Movies", UK: True Movies +2
+#EXTINF:-1 tvg-id="TrueMovies2.uk" tvg-name="UK: 1 Movies +2" tvg-logo="https://vgy.me/J6TbFl.png" group-title="UK Movies", UK: TRUE Movies +2
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3509.ts
 EXTINF:-1 tvg-id="AandE.us" tvg-name="US: A&E HD" tvg-logo="https://vgy.me/xkRbgC.png" group-title="US & Canada TV", US: A&E HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3876.ts 
@@ -493,112 +443,8 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2956.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2955.ts
 #EXTINF:-1,tvg-id="MIO Eleven Sports HD",tvg-name="UK: MIO Eleven Sports HD",tvg-logo="https://vgy.me/r70X99.png",group-title="UK Sports", UK: MIO Eleven Sports HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2954.ts
-#EXTINF:-1,tvg-id="ITVBoxOffice.uk",tvg-name="UK: ITV Box Office HD",tvg-logo="https://vgy.me/AaZXba.png",group-title="UK Sports", UK: ITV Box Office HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4161.ts
-#EXTINF:-1,tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office (PPV Events Only)
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2949.ts
-#EXTINF:-1,tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2948.ts
-#EXTINF:-1,tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office PPV
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4254.ts
-#EXTINF:-1,tvg-id="Bell Canada PPV HD",tvg-name="UK: Bell Canada PPV HD",tvg-logo="https://vgy.me/GiFhtG.png",group-title="UK Sports",US: Bell Canada PPV HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4950.ts
-#EXTINF:-1,tvg-id="Showtime.us",tvg-name="UK: Showtime HD PPV",tvg-logo="https://vgy.me/PjXRV5.png",group-title="UK Sports",US: Showtime HD PPV
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3883.ts
-#EXTINF:-1,tvg-id="SkySportsNews.uk",tvg-name="UK: Sky Sports News HD",tvg-logo="https://vgy.me/kpG5yX.png",group-title="UK Sports", UK: Sky Sports News HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4221.ts
-#EXTINF:-1,tvg-id="SkySportsMainEvent.uk",tvg-name="UK: Sky Sports Main Event",tvg-logo="https://vgy.me/gXa2UJ.png",group-title="UK Sports", UK: Sky Sports Main Event HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4223.ts
-#EXTINF:-1,tvg-id="SkySportsPremiereLeague.uk",tvg-name="UK: Sky Sports Premier League",tvg-logo="https://vgy.me/qPx2IP.png",group-title="UK Sports", UK: Sky Sports Premier League FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3996.ts
-#EXTINF:-1,tvg-id="SkySportsPremiereLeague.uk",tvg-name="UK: Sky Sports Premier League",tvg-logo="https://vgy.me/qPx2IP.png",group-title="UK Sports", UK: Sky Sports Premier League Ireland FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4916.ts
-#EXTINF:-1,tvg-id="SkySportsFootball.uk",tvg-name="UK: Sky Sports Football FullHD",tvg-logo="https://vgy.me/wyiYoz.png",group-title="UK Sports", UK: Sky Sports Football FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2938.ts
-#EXTINF:-1,tvg-id="SkySportsCricket.uk",tvg-name="UK: Sky Sports Cricket FullHD",tvg-logo="https://vgy.me/TOeaIu.png",group-title="UK Sports", UK: Sky Sports Cricket FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4217.ts
-#EXTINF:-1,tvg-id="SkySportsTheOpen.uk",tvg-name="UK: Sky Sports Golf FullHD",tvg-logo="https://vgy.me/hS6yBl.png",group-title="UK Sports", UK: Sky Sports Golf FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4218.ts
-#EXTINF:-1,tvg-id="SkySportsAction.uk",tvg-name="UK: Sky Sports Action FullHD",tvg-logo="https://vgy.me/pKynyL.png",group-title="UK Sports", UK: Sky Sports Action FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4219.ts
-#EXTINF:-1,tvg-id="SkySporstArena.uk",tvg-name="UK: Sky Sports Arena FullHD",tvg-logo="https://vgy.me/miWZjk.png",group-title="UK Sports", UK: Sky Sports Arena FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2937.ts
-#EXTINF:-1,tvg-id="SkySportsF1.uk",tvg-name="UK: Sky Sports F1 FullHD",tvg-logo="https://vgy.me/UjJP31.png",group-title="UK Sports", UK: Sky Sports F1 FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4204.ts
-#EXTINF:-1,tvg-id="SkySportsMix.uk",tvg-name="UK: Sky Sports Mix HD",tvg-logo="https://vgy.me/Yth7LT.png",group-title="UK Sports", UK: Sky Sports Mix HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2953.ts
-#EXTINF:-1,tvg-id="BTSport1.uk",tvg-name="UK: BT Sport 1 HD",tvg-logo="https://vgy.me/Msmc2i.png",group-title="UK Sports", UK: BT Sport 1 HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4003.ts
-#EXTINF:-1,tvg-id="BTSport2.uk",tvg-name="UK: BT Sport 2 HD",tvg-logo="https://vgy.me/8o6Y6T.png",group-title="UK Sports", UK: BT Sport 2 HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4002.ts
-#EXTINF:-1,tvg-id="BTSport3.uk",tvg-name="UK: BT Sport 3 HD",tvg-logo="https://vgy.me/3rFWZE.png",group-title="UK Sports", UK: BT Sport 3 HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4001.ts
-#EXTINF:-1,tvg-id="BTSportX1.uk",tvg-name="UK: BT Sport Extra 1",tvg-logo="https://vgy.me/SjIDnw.png",group-title="UK Sports", UK: BT Sport Extra 1
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2926.ts
-#EXTINF:-1,tvg-id="BTSportX2.uk",tvg-name="UK: BT Sport Extra 2",tvg-logo="https://vgy.me/qjAtKF.png",group-title="UK Sports", UK: BT Sport Extra 2
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2925.ts
-#EXTINF:-1,tvg-id="BTSportX3.uk",tvg-name="UK: BT Sport Extra 3",tvg-logo="https://vgy.me/mcKM25.png",group-title="UK Sports", UK: BT Sport Extra 3
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2924.ts
-#EXTINF:-1,tvg-id="BTSportX4.uk",tvg-name="UK: BT Sport Extra 4",tvg-logo="https://vgy.me/Ib22y6.png",group-title="UK Sports", UK: BT Sport Extra 4
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2923.ts
-#EXTINF:-1,tvg-id="BTSportX5.uk",tvg-name="UK: BT Sport Extra 5",tvg-logo="https://vgy.me/NJwJN0.png",group-title="UK Sports", UK: BT Sport Extra 5
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2922.ts
-#EXTINF:-1,tvg-id="BTSportESPN.uk",tvg-name="UK: BT Sport ESPN",tvg-logo="https://vgy.me/JIdwnQ.png",group-title="UK Sports", UK: BT Sport ESPN
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2927.ts
-#EXTINF:-1,tvg-id="BT Sport | ESPN",tvg-name="UK: BT Sport ESPN US",tvg-logo="https://vgy.me/HcXbDN.png",group-title="UK Sports", UK: BT Sport ESPN USA
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2816.ts
-#EXTINF:-1,tvg-id="BoxNation.uk",tvg-name="UK: Box Nation HD",tvg-logo="https://vgy.me/4q87Ss.png",group-title="UK Sports", UK: Box Nation HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3521.ts
-#EXTINF:-1,tvg-id="Eurosport1.uk",tvg-name="UK: Eurosport 1 HD",tvg-logo="https://vgy.me/kU4z6T.png",group-title="UK Sports", UK: Eurosport 1 HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2919.ts
-#EXTINF:-1,tvg-id="Eurosport2.uk",tvg-name="UK: Eurosport 2 HD",tvg-logo="https://vgy.me/t0d5tW.png",group-title="UK Sports", UK: Eurosport 2 HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2918.ts
-#EXTINF:-1,tvg-id="Russian League FullHD",tvg-name="UK:",tvg-logo="https://vgy.me/dHckFe.png",group-title="UK Sports", UK: Russian League FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4065.ts
-#EXTINF:-1,tvg-id="PremierSports.uk",tvg-name="UK: Premier Sports HD",tvg-logo="https://vgy.me/0ufHSF.png",group-title="UK Sports", UK: Premier Sports HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2455.ts
-#EXTINF:-1,tvg-id="AtTheRaces.uk",tvg-name="UK: At The Races",tvg-logo="https://vgy.me/bKBwaS.png",group-title="UK Sports", UK: At The Races
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4224.ts
-#EXTINF:-1,tvg-id="RacingUK.uk",tvg-name="UK: Racing UK HD",tvg-logo="https://vgy.me/pGbKrF.png",group-title="UK Sports", UK: Racing UK HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2452.ts
-#EXTINF:-1,tvg-id="FoxSports1.us",tvg-name="UK: Fox Sport 1 HD",tvg-logo="https://vgy.me/DTbVCS.png",group-title="UK Sports", UK: Fox Sport 1 HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2920.ts
-#EXTINF:-1,tvg-id="EirSport1.ie",tvg-name="UK: EIR Sports 1 HD",tvg-logo="https://vgy.me/ogsCi0.png",group-title="UK Sports", UK: EIR Sports 1 HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3519.ts
-#EXTINF:-1,tvg-id="EirSport2.ie",tvg-name="UK: EIR Sports 2 HD",tvg-logo="https://vgy.me/CbmfBv.png",group-title="UK Sports", UK: EIR Sports 2 HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2453.ts
-#EXTINF:-1,tvg-id="MUTV.uk",tvg-name="UK: MUTV FullHD",tvg-logo="https://vgy.me/5q9QDS.png",group-title="UK Sports", UK: MUTV FullHD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2456.ts
-#EXTINF:-1,tvg-id="ChelseaTV.uk",tvg-name="UK: Chelsea TV HD",tvg-logo="https://vgy.me/9Ubchu.png",group-title="UK Sports", UK: Chelsea TV HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3520.ts
-#EXTINF:-1,tvg-id="LiverpoolFCTV.uk",tvg-name="UK: LFC TV HD",tvg-logo="https://vgy.me/tK99hn.png",group-title="UK Sports", UK: LFC TV HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2957.ts
-#EXTINF:-1,tvg-id="Aberdeen FC TV - (Live On Matches)",tvg-name="UK: Aberdeen FC TV",tvg-logo="https://vgy.me/01dIJN.png",group-title="UK Sports", UK: Aberdeen FC TV - (Live On Matches)
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2943.ts
-#EXTINF:-1,tvg-id="Celtic FC TV - (Live On Matches)",tvg-name="UK: Celtic FC TV",tvg-logo="https://vgy.me/pJtmE1.png",group-title="UK Sports", UK: Celtic FC TV - (Live On Matches)
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2952.ts
-#EXTINF:-1,tvg-id="Rangers FC TV (Live On Matches)",tvg-name="UK: Rangers FC TV",tvg-logo="https://vgy.me/5TwdRA.png",group-title="UK Sports", UK: Rangers FC TV (Live On Matches)
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/3286.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 1",tvg-name="UK: SkyNet Sports 1",tvg-logo="https://vgy.me/lrE7Xg.png",group-title="UK Sports", UK: SkyNet Sports 1
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2916.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 2",tvg-name="UK: SkyNet Sports 2",tvg-logo="https://vgy.me/yqiRf5.png",group-title="UK Sports", UK: SkyNet Sports 2
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2915.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 3",tvg-name="UK: SkyNet Sports 3",tvg-logo="https://vgy.me/U3kTkS.png",group-title="UK Sports", UK: SkyNet Sports 3
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2914.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 4",tvg-name="UK: SkyNet Sports 4",tvg-logo="https://vgy.me/z0aRu8.png",group-title="UK Sports", UK: SkyNet Sports 4
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2913.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 5",tvg-name="UK: SkyNet Sports 5",tvg-logo="https://vgy.me/zitc0N.png",group-title="UK Sports", UK: SkyNet Sports 5
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2912.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 6",tvg-name="UK: SkyNet Sports 6",tvg-logo="https://vgy.me/R25W66.png",group-title="UK Sports", UK: SkyNet Sports 6
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2911.ts
-#EXTINF:-1,tvg-id="SkyNet Sports HD",tvg-name="UK: SkyNet Sports HD",tvg-logo="https://vgy.me/mwDor2.png",group-title="UK Sports", UK: SkyNet Sports HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2917.ts
-#EXTINF:-1,tvg-id="MIO Eleven HD",tvg-name="UK: MIO Eleven HD",tvg-logo="https://vgy.me/Gvsh4m.png",group-title="UK Sports", UK: MIO Eleven HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2956.ts
-#EXTINF:-1,tvg-id="MIO Eleven Plus HD",tvg-name="UK: MIO Eleven Plus HD",tvg-logo="https://vgy.me/6mjA8r.png",group-title="UK Sports", UK: MIO Eleven Plus HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2955.ts
-#EXTINF:-1,tvg-id="MIO Eleven Sports HD",tvg-name="UK: MIO Eleven Sports HD",tvg-logo="https://vgy.me/r70X99.png",group-title="UK Sports", UK: MIO Eleven Sports HD
-http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/2954.ts
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="UK: Motors TV HD" tvg-logo="https://vgy.me/OXat9b.png" group-title="UK Sports", UK: Motors TV HD
+http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4141.ts
 #EXTINF:-1,tvg-id="ITVBoxOffice.uk",tvg-name="UK: ITV Box Office HD",tvg-logo="https://vgy.me/AaZXba.png",group-title="UK Sports", UK: ITV Box Office HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4161.ts
 #EXTINF:-1,tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office (PPV Events Only)
@@ -2231,4 +2077,3 @@ http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4214.ts
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4078.ts
 #EXTINF:-1 tvg-id=“” tvg-name="XXX: Hustler TV HD" tvg-logo="https://vgy.me/HOKO3b.png" group-title="For Adults", XXX: Hustler TV HD
 http://watch.necroiptv.com/live/ZmzTIcbsrp/ta6TYKxvGa/4077.ts
-
