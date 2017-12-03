@@ -351,113 +351,113 @@ http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2870.ts
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/3877.ts 
 #EXTINF:-1 tvg-id="DiscoveryVelocity.us" tvg-name="US: Velocity HD" tvg-logo="https://vgy.me/EpJamR.png" group-title="US & Canada TV", US: Velocity HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2810.ts 
-#EXTINF:-1,tvg-id="SkySportsNews.uk",tvg-name="UK: Sky Sports News HD",tvg-logo="https://vgy.me/kpG5yX.png",group-title="UK Sports", UK: Sky Sports News HD
+#EXTINF:-1 tvg-id="SkySportsNews.uk",tvg-name="UK: Sky Sports News HD",tvg-logo="https://vgy.me/kpG5yX.png",group-title="UK Sports", UK: Sky Sports News HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4221.ts
-#EXTINF:-1,tvg-id="SkySportsMainEvent.uk",tvg-name="UK: Sky Sports Main Event",tvg-logo="https://vgy.me/gXa2UJ.png",group-title="UK Sports", UK: Sky Sports Main Event HD
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk",tvg-name="UK: Sky Sports Main Event",tvg-logo="https://vgy.me/gXa2UJ.png",group-title="UK Sports", UK: Sky Sports Main Event HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4223.ts
-#EXTINF:-1,tvg-id="SkySportsPremiereLeague.uk",tvg-name="UK: Sky Sports Premier League",tvg-logo="https://vgy.me/qPx2IP.png",group-title="UK Sports", UK: Sky Sports Premier League FullHD
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk",tvg-name="UK: Sky Sports Premier League",tvg-logo="https://vgy.me/qPx2IP.png",group-title="UK Sports", UK: Sky Sports Premier League FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/3996.ts
-#EXTINF:-1,tvg-id="SkySportsPremiereLeague.uk",tvg-name="UK: Sky Sports Premier League",tvg-logo="https://vgy.me/qPx2IP.png",group-title="UK Sports", UK: Sky Sports Premier League Ireland FullHD
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk",tvg-name="UK: Sky Sports Premier League",tvg-logo="https://vgy.me/qPx2IP.png",group-title="UK Sports", UK: Sky Sports Premier League Ireland FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4916.ts
-#EXTINF:-1,tvg-id="SkySportsFootball.uk",tvg-name="UK: Sky Sports Football FullHD",tvg-logo="https://vgy.me/wyiYoz.png",group-title="UK Sports", UK: Sky Sports Football FullHD
+#EXTINF:-1 tvg-id="SkySportsFootball.uk",tvg-name="UK: Sky Sports Football FullHD",tvg-logo="https://vgy.me/wyiYoz.png",group-title="UK Sports", UK: Sky Sports Football FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2938.ts
-#EXTINF:-1,tvg-id="SkySportsCricket.uk",tvg-name="UK: Sky Sports Cricket FullHD",tvg-logo="https://vgy.me/TOeaIu.png",group-title="UK Sports", UK: Sky Sports Cricket FullHD
+#EXTINF:-1 tvg-id="SkySportsCricket.uk",tvg-name="UK: Sky Sports Cricket FullHD",tvg-logo="https://vgy.me/TOeaIu.png",group-title="UK Sports", UK: Sky Sports Cricket FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4217.ts
-#EXTINF:-1,tvg-id="SkySportsTheOpen.uk",tvg-name="UK: Sky Sports Golf FullHD",tvg-logo="https://vgy.me/hS6yBl.png",group-title="UK Sports", UK: Sky Sports Golf FullHD
+#EXTINF:-1 tvg-id="SkySportsTheOpen.uk",tvg-name="UK: Sky Sports Golf FullHD",tvg-logo="https://vgy.me/hS6yBl.png",group-title="UK Sports", UK: Sky Sports Golf FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4218.ts
-#EXTINF:-1,tvg-id="SkySportsAction.uk",tvg-name="UK: Sky Sports Action FullHD",tvg-logo="https://vgy.me/pKynyL.png",group-title="UK Sports", UK: Sky Sports Action FullHD
+#EXTINF:-1 tvg-id="SkySportsAction.uk",tvg-name="UK: Sky Sports Action FullHD",tvg-logo="https://vgy.me/pKynyL.png",group-title="UK Sports", UK: Sky Sports Action FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4219.ts
-#EXTINF:-1,tvg-id="SkySporstArena.uk",tvg-name="UK: Sky Sports Arena FullHD",tvg-logo="https://vgy.me/miWZjk.png",group-title="UK Sports", UK: Sky Sports Arena FullHD
+#EXTINF:-1 tvg-id="SkySporstArena.uk",tvg-name="UK: Sky Sports Arena FullHD",tvg-logo="https://vgy.me/miWZjk.png",group-title="UK Sports", UK: Sky Sports Arena FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2937.ts
-#EXTINF:-1,tvg-id="SkySportsF1.uk",tvg-name="UK: Sky Sports F1 FullHD",tvg-logo="https://vgy.me/UjJP31.png",group-title="UK Sports", UK: Sky Sports F1 FullHD
+#EXTINF:-1 tvg-id="SkySportsF1.uk",tvg-name="UK: Sky Sports F1 FullHD",tvg-logo="https://vgy.me/UjJP31.png",group-title="UK Sports", UK: Sky Sports F1 FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4204.ts
-#EXTINF:-1,tvg-id="SkySportsMix.uk",tvg-name="UK: Sky Sports Mix HD",tvg-logo="https://vgy.me/Yth7LT.png",group-title="UK Sports", UK: Sky Sports Mix HD
+#EXTINF:-1 tvg-id="SkySportsMix.uk",tvg-name="UK: Sky Sports Mix HD",tvg-logo="https://vgy.me/Yth7LT.png",group-title="UK Sports", UK: Sky Sports Mix HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2953.ts
-#EXTINF:-1,tvg-id="BTSport1.uk",tvg-name="UK: BT Sport 1 HD",tvg-logo="https://vgy.me/Msmc2i.png",group-title="UK Sports", UK: BT Sport 1 HD
+#EXTINF:-1 tvg-id="BTSport1.uk",tvg-name="UK: BT Sport 1 HD",tvg-logo="https://vgy.me/Msmc2i.png",group-title="UK Sports", UK: BT Sport 1 HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4003.ts
-#EXTINF:-1,tvg-id="BTSport2.uk",tvg-name="UK: BT Sport 2 HD",tvg-logo="https://vgy.me/8o6Y6T.png",group-title="UK Sports", UK: BT Sport 2 HD
+#EXTINF:-1 tvg-id="BTSport2.uk",tvg-name="UK: BT Sport 2 HD",tvg-logo="https://vgy.me/8o6Y6T.png",group-title="UK Sports", UK: BT Sport 2 HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4002.ts
-#EXTINF:-1,tvg-id="BTSport3.uk",tvg-name="UK: BT Sport 3 HD",tvg-logo="https://vgy.me/3rFWZE.png",group-title="UK Sports", UK: BT Sport 3 HD
+#EXTINF:-1 tvg-id="BTSport3.uk",tvg-name="UK: BT Sport 3 HD",tvg-logo="https://vgy.me/3rFWZE.png",group-title="UK Sports", UK: BT Sport 3 HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4001.ts
-#EXTINF:-1,tvg-id="BTSportX1.uk",tvg-name="UK: BT Sport Extra 1",tvg-logo="https://vgy.me/SjIDnw.png",group-title="UK Sports", UK: BT Sport Extra 1
+#EXTINF:-1 tvg-id="BTSportX1.uk",tvg-name="UK: BT Sport Extra 1",tvg-logo="https://vgy.me/SjIDnw.png",group-title="UK Sports", UK: BT Sport Extra 1
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2926.ts
-#EXTINF:-1,tvg-id="BTSportX2.uk",tvg-name="UK: BT Sport Extra 2",tvg-logo="https://vgy.me/qjAtKF.png",group-title="UK Sports", UK: BT Sport Extra 2
+#EXTINF:-1 tvg-id="BTSportX2.uk",tvg-name="UK: BT Sport Extra 2",tvg-logo="https://vgy.me/qjAtKF.png",group-title="UK Sports", UK: BT Sport Extra 2
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2925.ts
-#EXTINF:-1,tvg-id="BTSportX3.uk",tvg-name="UK: BT Sport Extra 3",tvg-logo="https://vgy.me/mcKM25.png",group-title="UK Sports", UK: BT Sport Extra 3
+#EXTINF:-1 tvg-id="BTSportX3.uk",tvg-name="UK: BT Sport Extra 3",tvg-logo="https://vgy.me/mcKM25.png",group-title="UK Sports", UK: BT Sport Extra 3
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2924.ts
-#EXTINF:-1,tvg-id="BTSportX4.uk",tvg-name="UK: BT Sport Extra 4",tvg-logo="https://vgy.me/Ib22y6.png",group-title="UK Sports", UK: BT Sport Extra 4
+#EXTINF:-1 tvg-id="BTSportX4.uk",tvg-name="UK: BT Sport Extra 4",tvg-logo="https://vgy.me/Ib22y6.png",group-title="UK Sports", UK: BT Sport Extra 4
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2923.ts
-#EXTINF:-1,tvg-id="BTSportX5.uk",tvg-name="UK: BT Sport Extra 5",tvg-logo="https://vgy.me/NJwJN0.png",group-title="UK Sports", UK: BT Sport Extra 5
+#EXTINF:-1 tvg-id="BTSportX5.uk",tvg-name="UK: BT Sport Extra 5",tvg-logo="https://vgy.me/NJwJN0.png",group-title="UK Sports", UK: BT Sport Extra 5
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2922.ts
-#EXTINF:-1,tvg-id="BTSportESPN.uk",tvg-name="UK: BT Sport ESPN",tvg-logo="https://vgy.me/JIdwnQ.png",group-title="UK Sports", UK: BT Sport ESPN
+#EXTINF:-1 tvg-id="BTSportESPN.uk",tvg-name="UK: BT Sport ESPN",tvg-logo="https://vgy.me/JIdwnQ.png",group-title="UK Sports", UK: BT Sport ESPN
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2927.ts
-#EXTINF:-1,tvg-id="BT Sport | ESPN",tvg-name="UK: BT Sport ESPN US",tvg-logo="https://vgy.me/HcXbDN.png",group-title="UK Sports", UK: BT Sport ESPN USA
+#EXTINF:-1 tvg-id="BT Sport | ESPN",tvg-name="UK: BT Sport ESPN US",tvg-logo="https://vgy.me/HcXbDN.png",group-title="UK Sports", UK: BT Sport ESPN USA
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2816.ts
-#EXTINF:-1,tvg-id="BoxNation.uk",tvg-name="UK: Box Nation HD",tvg-logo="https://vgy.me/4q87Ss.png",group-title="UK Sports", UK: Box Nation HD
+#EXTINF:-1 tvg-id="BoxNation.uk",tvg-name="UK: Box Nation HD",tvg-logo="https://vgy.me/4q87Ss.png",group-title="UK Sports", UK: Box Nation HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/3521.ts
-#EXTINF:-1,tvg-id="Eurosport1.uk",tvg-name="UK: Eurosport 1 HD",tvg-logo="https://vgy.me/kU4z6T.png",group-title="UK Sports", UK: Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.uk",tvg-name="UK: Eurosport 1 HD",tvg-logo="https://vgy.me/kU4z6T.png",group-title="UK Sports", UK: Eurosport 1 HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2919.ts
-#EXTINF:-1,tvg-id="Eurosport2.uk",tvg-name="UK: Eurosport 2 HD",tvg-logo="https://vgy.me/t0d5tW.png",group-title="UK Sports", UK: Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport2.uk",tvg-name="UK: Eurosport 2 HD",tvg-logo="https://vgy.me/t0d5tW.png",group-title="UK Sports", UK: Eurosport 2 HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2918.ts
-#EXTINF:-1,tvg-id="Russian League FullHD",tvg-name="UK:",tvg-logo="https://vgy.me/dHckFe.png",group-title="UK Sports", UK: Russian League FullHD
+#EXTINF:-1 tvg-id="Russian League FullHD",tvg-name="UK:",tvg-logo="https://vgy.me/dHckFe.png",group-title="UK Sports", UK: Russian League FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4065.ts
-#EXTINF:-1,tvg-id="PremierSports.uk",tvg-name="UK: Premier Sports HD",tvg-logo="https://vgy.me/0ufHSF.png",group-title="UK Sports", UK: Premier Sports HD
+#EXTINF:-1 tvg-id="PremierSports.uk",tvg-name="UK: Premier Sports HD",tvg-logo="https://vgy.me/0ufHSF.png",group-title="UK Sports", UK: Premier Sports HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2455.ts
-#EXTINF:-1,tvg-id="AtTheRaces.uk",tvg-name="UK: At The Races",tvg-logo="https://vgy.me/bKBwaS.png",group-title="UK Sports", UK: At The Races
+#EXTINF:-1 tvg-id="AtTheRaces.uk",tvg-name="UK: At The Races",tvg-logo="https://vgy.me/bKBwaS.png",group-title="UK Sports", UK: At The Races
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4224.ts
-#EXTINF:-1,tvg-id="RacingUK.uk",tvg-name="UK: Racing UK HD",tvg-logo="https://vgy.me/pGbKrF.png",group-title="UK Sports", UK: Racing UK HD
+#EXTINF:-1 tvg-id="RacingUK.uk",tvg-name="UK: Racing UK HD",tvg-logo="https://vgy.me/pGbKrF.png",group-title="UK Sports", UK: Racing UK HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2452.ts
-#EXTINF:-1,tvg-id="FoxSports1.us",tvg-name="UK: Fox Sport 1 HD",tvg-logo="https://vgy.me/DTbVCS.png",group-title="UK Sports", UK: Fox Sport 1 HD
+#EXTINF:-1 tvg-id="FoxSports1.us",tvg-name="UK: Fox Sport 1 HD",tvg-logo="https://vgy.me/DTbVCS.png",group-title="UK Sports", UK: Fox Sport 1 HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2920.ts
-#EXTINF:-1,tvg-id="EirSport1.ie",tvg-name="UK: EIR Sports 1 HD",tvg-logo="https://vgy.me/ogsCi0.png",group-title="UK Sports", UK: EIR Sports 1 HD
+#EXTINF:-1 tvg-id="EirSport1.ie",tvg-name="UK: EIR Sports 1 HD",tvg-logo="https://vgy.me/ogsCi0.png",group-title="UK Sports", UK: EIR Sports 1 HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/3519.ts
-#EXTINF:-1,tvg-id="EirSport2.ie",tvg-name="UK: EIR Sports 2 HD",tvg-logo="https://vgy.me/CbmfBv.png",group-title="UK Sports", UK: EIR Sports 2 HD
+#EXTINF:-1 tvg-id="EirSport2.ie",tvg-name="UK: EIR Sports 2 HD",tvg-logo="https://vgy.me/CbmfBv.png",group-title="UK Sports", UK: EIR Sports 2 HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2453.ts
-#EXTINF:-1,tvg-id="MUTV.uk",tvg-name="UK: MUTV FullHD",tvg-logo="https://vgy.me/5q9QDS.png",group-title="UK Sports", UK: MUTV FullHD
+#EXTINF:-1 tvg-id="MUTV.uk",tvg-name="UK: MUTV FullHD",tvg-logo="https://vgy.me/5q9QDS.png",group-title="UK Sports", UK: MUTV FullHD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2456.ts
-#EXTINF:-1,tvg-id="ChelseaTV.uk",tvg-name="UK: Chelsea TV HD",tvg-logo="https://vgy.me/9Ubchu.png",group-title="UK Sports", UK: Chelsea TV HD
+#EXTINF:-1 tvg-id="ChelseaTV.uk",tvg-name="UK: Chelsea TV HD",tvg-logo="https://vgy.me/9Ubchu.png",group-title="UK Sports", UK: Chelsea TV HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/3520.ts
-#EXTINF:-1,tvg-id="LiverpoolFCTV.uk",tvg-name="UK: LFC TV HD",tvg-logo="https://vgy.me/tK99hn.png",group-title="UK Sports", UK: LFC TV HD
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk",tvg-name="UK: LFC TV HD",tvg-logo="https://vgy.me/tK99hn.png",group-title="UK Sports", UK: LFC TV HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2957.ts
-#EXTINF:-1,tvg-id="Aberdeen FC TV - (Live On Matches)",tvg-name="UK: Aberdeen FC TV",tvg-logo="https://vgy.me/01dIJN.png",group-title="UK Sports", UK: Aberdeen FC TV - (Live On Matches)
+#EXTINF:-1 tvg-id="Aberdeen FC TV - (Live On Matches)",tvg-name="UK: Aberdeen FC TV",tvg-logo="https://vgy.me/01dIJN.png",group-title="UK Sports", UK: Aberdeen FC TV - (Live On Matches)
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2943.ts
-#EXTINF:-1,tvg-id="Celtic FC TV - (Live On Matches)",tvg-name="UK: Celtic FC TV",tvg-logo="https://vgy.me/pJtmE1.png",group-title="UK Sports", UK: Celtic FC TV - (Live On Matches)
+#EXTINF:-1 tvg-id="Celtic FC TV - (Live On Matches)",tvg-name="UK: Celtic FC TV",tvg-logo="https://vgy.me/pJtmE1.png",group-title="UK Sports", UK: Celtic FC TV - (Live On Matches)
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2952.ts
-#EXTINF:-1,tvg-id="Rangers FC TV (Live On Matches)",tvg-name="UK: Rangers FC TV",tvg-logo="https://vgy.me/5TwdRA.png",group-title="UK Sports", UK: Rangers FC TV (Live On Matches)
+#EXTINF:-1 tvg-id="Rangers FC TV (Live On Matches)",tvg-name="UK: Rangers FC TV",tvg-logo="https://vgy.me/5TwdRA.png",group-title="UK Sports", UK: Rangers FC TV (Live On Matches)
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/3286.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 1",tvg-name="UK: SkyNet Sports 1",tvg-logo="https://vgy.me/lrE7Xg.png",group-title="UK Sports", UK: SkyNet Sports 1
+#EXTINF:-1 tvg-id="SkyNet Sports 1",tvg-name="UK: SkyNet Sports 1",tvg-logo="https://vgy.me/lrE7Xg.png",group-title="UK Sports", UK: SkyNet Sports 1
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2916.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 2",tvg-name="UK: SkyNet Sports 2",tvg-logo="https://vgy.me/yqiRf5.png",group-title="UK Sports", UK: SkyNet Sports 2
+#EXTINF:-1 tvg-id="SkyNet Sports 2",tvg-name="UK: SkyNet Sports 2",tvg-logo="https://vgy.me/yqiRf5.png",group-title="UK Sports", UK: SkyNet Sports 2
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2915.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 3",tvg-name="UK: SkyNet Sports 3",tvg-logo="https://vgy.me/U3kTkS.png",group-title="UK Sports", UK: SkyNet Sports 3
+#EXTINF:-1 tvg-id="SkyNet Sports 3",tvg-name="UK: SkyNet Sports 3",tvg-logo="https://vgy.me/U3kTkS.png",group-title="UK Sports", UK: SkyNet Sports 3
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2914.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 4",tvg-name="UK: SkyNet Sports 4",tvg-logo="https://vgy.me/z0aRu8.png",group-title="UK Sports", UK: SkyNet Sports 4
+#EXTINF:-1 tvg-id="SkyNet Sports 4",tvg-name="UK: SkyNet Sports 4",tvg-logo="https://vgy.me/z0aRu8.png",group-title="UK Sports", UK: SkyNet Sports 4
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2913.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 5",tvg-name="UK: SkyNet Sports 5",tvg-logo="https://vgy.me/zitc0N.png",group-title="UK Sports", UK: SkyNet Sports 5
+#EXTINF:-1 tvg-id="SkyNet Sports 5",tvg-name="UK: SkyNet Sports 5",tvg-logo="https://vgy.me/zitc0N.png",group-title="UK Sports", UK: SkyNet Sports 5
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2912.ts
-#EXTINF:-1,tvg-id="SkyNet Sports 6",tvg-name="UK: SkyNet Sports 6",tvg-logo="https://vgy.me/R25W66.png",group-title="UK Sports", UK: SkyNet Sports 6
+#EXTINF:-1 tvg-id="SkyNet Sports 6",tvg-name="UK: SkyNet Sports 6",tvg-logo="https://vgy.me/R25W66.png",group-title="UK Sports", UK: SkyNet Sports 6
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2911.ts
-#EXTINF:-1,tvg-id="SkyNet Sports HD",tvg-name="UK: SkyNet Sports HD",tvg-logo="https://vgy.me/mwDor2.png",group-title="UK Sports", UK: SkyNet Sports HD
+#EXTINF:-1 tvg-id="SkyNet Sports HD",tvg-name="UK: SkyNet Sports HD",tvg-logo="https://vgy.me/mwDor2.png",group-title="UK Sports", UK: SkyNet Sports HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2917.ts
-#EXTINF:-1,tvg-id="MIO Eleven HD",tvg-name="UK: MIO Eleven HD",tvg-logo="https://vgy.me/Gvsh4m.png",group-title="UK Sports", UK: MIO Eleven HD
+#EXTINF:-1 tvg-id="MIO Eleven HD",tvg-name="UK: MIO Eleven HD",tvg-logo="https://vgy.me/Gvsh4m.png",group-title="UK Sports", UK: MIO Eleven HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2956.ts
-#EXTINF:-1,tvg-id="MIO Eleven Plus HD",tvg-name="UK: MIO Eleven Plus HD",tvg-logo="https://vgy.me/6mjA8r.png",group-title="UK Sports", UK: MIO Eleven Plus HD
+#EXTINF:-1 tvg-id="MIO Eleven Plus HD",tvg-name="UK: MIO Eleven Plus HD",tvg-logo="https://vgy.me/6mjA8r.png",group-title="UK Sports", UK: MIO Eleven Plus HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2955.ts
-#EXTINF:-1,tvg-id="MIO Eleven Sports HD",tvg-name="UK: MIO Eleven Sports HD",tvg-logo="https://vgy.me/r70X99.png",group-title="UK Sports", UK: MIO Eleven Sports HD
+#EXTINF:-1 tvg-id="MIO Eleven Sports HD",tvg-name="UK: MIO Eleven Sports HD",tvg-logo="https://vgy.me/r70X99.png",group-title="UK Sports", UK: MIO Eleven Sports HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2954.ts
 #EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="UK: Motors TV HD" tvg-logo="https://vgy.me/OXat9b.png" group-title="UK Sports", UK: Motors TV HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4141.ts
-#EXTINF:-1,tvg-id="ITVBoxOffice.uk",tvg-name="UK: ITV Box Office HD",tvg-logo="https://vgy.me/AaZXba.png",group-title="UK Sports", UK: ITV Box Office HD
+#EXTINF:-1 tvg-id="ITVBoxOffice.uk",tvg-name="UK: ITV Box Office HD",tvg-logo="https://vgy.me/AaZXba.png",group-title="UK Sports", UK: ITV Box Office HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4161.ts
-#EXTINF:-1,tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office (PPV Events Only)
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office (PPV Events Only)
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2949.ts
-#EXTINF:-1,tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office HD
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2948.ts
-#EXTINF:-1,tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office PPV
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk",tvg-name="UK: Sky Sports Box Office",tvg-logo="https://vgy.me/crUSZh.png",group-title="UK Sports", UK: Sky Sports Box Office PPV
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4254.ts
-#EXTINF:-1,tvg-id="Bell Canada PPV HD",tvg-name="UK: Bell Canada PPV HD",tvg-logo="https://vgy.me/GiFhtG.png",group-title="UK Sports",US: Bell Canada PPV HD
+#EXTINF:-1 tvg-id="Bell Canada PPV HD",tvg-name="UK: Bell Canada PPV HD",tvg-logo="https://vgy.me/GiFhtG.png",group-title="UK Sports",US: Bell Canada PPV HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/4950.ts
-#EXTINF:-1,tvg-id="Showtime.us",tvg-name="UK: Showtime HD PPV",tvg-logo="https://vgy.me/PjXRV5.png",group-title="UK Sports",US: Showtime HD PPV
+#EXTINF:-1 tvg-id="Showtime.us",tvg-name="UK: Showtime HD PPV",tvg-logo="https://vgy.me/PjXRV5.png",group-title="UK Sports",US: Showtime HD PPV
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/3883.ts
 #EXTINF:-1 tvg-id="AFNSports.us" tvg-name="US: AFN Sports HD" tvg-logo="https://vgy.me/VB2zGA.png" group-title="US & Canada Sports", US: AFN Sports HD
 http://watch.eclipseiptv.com:80/live/ZmzTIcbsrp/ta6TYKxvGa/2826.ts
